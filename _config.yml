@@ -1,9 +1,9 @@
 # Site Settings
-title: Mere Blog Theme 
-tagline: Mere Blog Theme
-email: your-email@domain.com
+title: My personal website 
+tagline: 蔡家赓
+email: caijiagengpeter@gmail.com
 description: >
-  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
+  蔡家赓简介, made for Jekyll and GitHub pages websites
 baseurl: "/蔡家赓 Peter"
 url: "https://www.csrhymes.com"
 permalink: pretty
