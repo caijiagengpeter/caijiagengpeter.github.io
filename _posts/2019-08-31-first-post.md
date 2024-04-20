@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: First Post
+title: Summary of first semester
 image: /img/home.jpg
 ---
 
