@@ -8,15 +8,33 @@ intro_image: /img/self.jpg
 intro_image_ratio: is-5by5
 ---
 
-Hello 
-
+Hello!
+ My_name:
 ```yaml
-layout: post
-title: Post with Intro
-author: Guest Author
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /img/route66.jpg
-intro_image_ratio: is-16by9
+ 蔡家赓/Peter/Cai_JiaGeng
 ```
+ My_age:
+```yaml
+20
+```
+ My_major:
+```yaml
+Electronic Information Engineering(EIE)
+```
+ My_School:
+```yaml
+Macao University of Science and Technology (MUST)
+```
+ My_Hometown:
+```yaml
+ChongQing, mainland, China
+```
+
+
+
+
+
+
+
 
 Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
