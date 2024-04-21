@@ -29,12 +29,7 @@ Macao University of Science and Technology (MUST)
 ```yaml
 ChongQing, mainland, China
 ```
-
-intro_image: /img/self.jpg
-
-
-
-
-
-
-Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
+ My_Hobby:
+```yaml
+Driving, traveling, collecting phones, sports.
+```
