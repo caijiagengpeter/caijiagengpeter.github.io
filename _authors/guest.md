@@ -1,5 +1,5 @@
 ---
-title: 蔡家赓 - student
+title: 蔡家赓
 name: Cai JiaGeng/Peter
 position:  a student study Electronic Information Engineering in Macau
 avatar: /img/cjg.png
