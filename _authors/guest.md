@@ -1,7 +1,7 @@
 ---
-title: 蔡家赓Peter - web designer
+title: 蔡家赓Peter
 name: Cai JiaGeng
-position: Web Designer
+position:  a student study Electronic Information Engineering in Macau
 description: This is an example of a guest author
 avatar: /img/cjg.png
 
@@ -9,5 +9,5 @@ avatar: /img/cjg.png
 <pre>
 Hello, it is me, if you want to contact me, here are some ways,
 My_WeChat: caijg15608310531
-My_telephone: 68595836
+My_telephone: 68595836/15608310531
 My_eMail: caijiagengpeter@gmail.com
