@@ -23,6 +23,7 @@ Electronic Information Engineering(EIE)
 ```
  My_School:
 ```yaml
+intro_image: /img/self.jpg
 Macao University of Science and Technology (MUST)
 ```
  My_Hometown:
