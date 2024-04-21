@@ -2,8 +2,8 @@
 layout: post
 title: My personal information
 author: CaiJiageng/Peter
-description: This is a post with an introduction image and text
-intro: Let me tell you something about me here! :)
+description: This is a post with an introduction image and text   
+intro: Let me tell you something about me here! :)  <pre>My name: 蔡家赓/Peter/Cai_JiaGeng <pre>My_age: 20 <pre> My_Major: Electronic Information Engineering(EIE)
 intro_image: /img/self.jpg
 intro_image_ratio: is-5by5
 ---
