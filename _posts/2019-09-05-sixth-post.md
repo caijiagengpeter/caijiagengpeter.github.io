@@ -8,7 +8,7 @@ intro_image: /img/self.jpg
 intro_image_ratio: is-5by5
 ---
 
-Hello!
+
  My_name:
 ```yaml
  蔡家赓/Peter/Cai_JiaGeng
@@ -23,7 +23,6 @@ Electronic Information Engineering(EIE)
 ```
  My_School:
 ```yaml
-intro_image: /img/self.jpg
 Macao University of Science and Technology (MUST)
 ```
  My_Hometown:
@@ -31,7 +30,7 @@ Macao University of Science and Technology (MUST)
 ChongQing, mainland, China
 ```
 
-
+intro_image: /img/self.jpg
 
 
 
