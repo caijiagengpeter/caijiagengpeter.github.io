@@ -1,6 +1,6 @@
 ---
-layout: authors
-title: Authors
+layout: author
+title: Author of this website
 description: The authors page for mere blog theme
 ---
 
