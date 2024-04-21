@@ -1,8 +1,7 @@
 ---
-title: 蔡家赓Peter - a student study Electronic Information Engineering in Macau
-name: Cai JiaGeng
+title: 蔡家赓 - student
+name: Cai JiaGeng/Peter
 position:  a student study Electronic Information Engineering in Macau
-description: This is an example of a guest author
 avatar: /img/cjg.png
 
 ---
