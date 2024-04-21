@@ -3,12 +3,12 @@ layout: post
 title: My personal information
 author: CaiJiageng/Peter
 description: This is a post with an introduction image and text
-intro: This is the introduction text for this post. It appears large and bold at the top of the post!
+intro: Let me tell you something about me here! :)
 intro_image: /img/self.jpg
-intro_image_ratio: is-9y9
+intro_image_ratio: is-5by5
 ---
 
-Version 0.3 allows you to provide a intro and an intro image. When creating your post add a short `intro` text an `intro_image` as a path to an image and then specify the `intro_image_ratio` which should be a [Bulma image](https://bulma.io/documentation/elements/image/) class. 
+Hello 
 
 ```yaml
 layout: post
