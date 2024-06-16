@@ -5,7 +5,7 @@ author: CaiJiageng/Peter
 description: This is a post with an introduction image and text   
 intro: Let me tell you something about me here! :)
 intro_image: /img/self.jpg
-intro_image_ratio: is-2by3
+intro_image_ratio: is-1by1
 ---
 
 
