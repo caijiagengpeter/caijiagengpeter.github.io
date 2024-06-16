@@ -2,9 +2,9 @@
 layout: post
 title: About my major
 author: Peter
-intro: This is the intro for this post. This post has no intro image, just text
+intro: In this page you can find what classes I have learned during the university.
 ---
-In this page you can find what classes I have learned during the university.
+
 
 In the semeter of freshman (2022.9-2023.1)
 ```yaml
