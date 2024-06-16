@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: My personal information
+title: About my personal information
 author: CaiJiageng/Peter
 description: This is a post with an introduction image and text   
 intro: Let me tell you something about me here! :)
 intro_image: /img/self.jpg
-intro_image_ratio: is-5by5
+intro_image_ratio: is-2by3
 ---
 
 
