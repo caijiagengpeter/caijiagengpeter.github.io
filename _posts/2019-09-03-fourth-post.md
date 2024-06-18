@@ -16,16 +16,27 @@ Buick  GL8
 Buick  LaCROSSE
 
 ChangAn  EADO 
+
 Chevrolet  Monza
+
 Honda CRIDER
+
 Mitsubish PAJERO
+
 Nissan ALTIMA
+
 Tesla Model 3
+
 Toyota COROLLA CROSS (Hybird)
+
 Toyota LandCruiser (LC100)
+
 Toyota LandCruiser (LC200)
+
 Volkswagen MAGOTAN (Passat)
+
 Volkswagen TiguanL
+
 Volvo XC60
 
 ### Some of thoses cars impressed me a lot, so, I write some views of them. You can click those link below to see more about what I think of those cars.
