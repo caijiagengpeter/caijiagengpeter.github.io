@@ -1,24 +1,33 @@
 --- 
 layout: post
-title: About my hobby in cars
+title: About my hobby of cars
 author: Peter
 intro: In this page you can find some views about cars that I have been driven
 ---
 
 
 
+## The car I have driven
 
+BMW  225i (convertable)
+Buick  GL8
+Buick  LaCROSSE
+ChangAn  EADO 
+Chevrolet  Monza
+Honda CRIDER
+Mitsubish PAJERO
+Nissan ALTIMA
+Tesla Model 3
+Toyota COROLLA CROSS (Hybird)
+Toyota LandCruiser (LC100)
+Toyota LandCruiser (LC200)
+Volkswagen MAGOTAN (Passat)
+Volkswagen TiguanL
+Volvo XC60
 
+### Some of thoses cars impressed me a lot, so, I write some views of them. You can click those link below to see more about what I think of those cars.
+Honda CRIDER
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit eros, porta eget dapibus vitae, tempus et mi. Maecenas sollicitudin ligula vel metus condimentum, ac commodo sem vestibulum. Morbi tempus dui sapien, vel mattis orci faucibus id. Nulla congue elit vel accumsan mattis. Ut vel dolor porttitor, laoreet risus in, tempus velit. Praesent eu nisi enim. Integer sed venenatis risus, eget semper sapien. Nulla at lacinia lectus. Sed rutrum lectus at vestibulum tristique. Cras ex sem, consequat at dapibus scelerisque, iaculis sit amet tellus. Fusce eu orci ut ex consequat semper. Mauris pharetra dictum dui, vestibulum egestas erat.
-
-## Example heading 2
-
-Aliquam diam eros, maximus non consectetur sed, faucibus et risus. Morbi quis velit ultrices, ultrices magna ut, pretium mauris. Sed interdum dolor augue, in ultrices tellus rutrum eu. Donec a tellus gravida, imperdiet sapien et, mollis nibh. Aenean at diam eu diam gravida malesuada. In egestas est arcu, porttitor luctus orci dapibus eu. Maecenas ac justo quam. Sed blandit hendrerit massa, vel semper augue sagittis consequat. Aliquam non finibus massa, a semper est. Etiam ornare elit sed vestibulum semper. Nunc nec blandit augue. Etiam molestie massa et justo luctus sagittis. Suspendisse tincidunt maximus tellus non iaculis. Proin ut sodales magna. Integer cursus orci sit amet diam vehicula molestie. Nam luctus arcu a consequat blandit.
-
-### Example heading 3
-
-Nunc accumsan, leo eget porta auctor, odio augue consectetur lectus, sit amet laoreet nibh ex vitae orci. Aliquam erat volutpat. Nunc ultricies magna sem, vitae rhoncus augue commodo vitae. Suspendisse commodo nisl dui, eu maximus tortor rhoncus sit amet. Nulla facilisi. Mauris condimentum massa rhoncus, tempus risus sit amet, elementum turpis. Etiam quis urna tempus, tempus ipsum in, egestas arcu. Duis nibh nibh, vulputate sed fringilla pellentesque, hendrerit at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus elementum ultrices ultrices. Quisque ac erat pharetra ipsum imperdiet rhoncus. Donec fermentum ante nec scelerisque tempus. Proin at aliquam orci. Quisque interdum nibh eu justo cursus egestas. Integer sed est turpis.
 
 ## Example heading 2
 
