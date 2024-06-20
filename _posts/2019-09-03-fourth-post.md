@@ -41,6 +41,16 @@ Volvo XC60
 
 ### Some of thoses cars impressed me a lot, so, I write some views of them. You can click those link below to see more about what I think of those cars.
 Honda CRIDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Title</title>
+</head>
+<body>
+<img src="picture.png" width="300" height="300">
+</body>
+</html>
 
 
 ## Example heading 2
