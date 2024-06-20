@@ -48,7 +48,7 @@ Honda CRIDER
 <title>Title</title>
 </head>
 <body>
-<img src="picture.png" width="300" height="300">
+<img src="home.jpg" width="300" height="300">
 </body>
 </html>
 
