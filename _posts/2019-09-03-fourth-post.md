@@ -43,7 +43,7 @@ Volvo XC60
 TESLA model 3
 
 
-
+<a href="https://github.com/user-attachments/files/16349175/Car.review.of.Tesla.model.3.docx" target="_blank">Car view of TESLA model 3</a>
 
 
 Honda CRIDER
